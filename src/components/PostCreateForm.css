@@ -1,0 +1,42 @@
+.comment-form {
+    /* width: 680px; */
+    position: absolute;
+    bottom: 40px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h2 {
+    color:rgb(45, 45, 45);;  
+}
+
+textarea {
+    width: 680px;
+    height: 3em;
+    resize: none;
+    padding: 10px;
+    color:rgb(94, 94, 94);;
+    font-size: 1em;
+    border-color: rgb(198, 198, 198);
+    margin-bottom: 1em;
+}
+
+textarea:focus {
+    outline: none;
+    /* outline-color: rgb(130, 130, 130);; */
+}
+
+.button-area {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* .cancel-button {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    width: 30px;
+    height: 30px;
+} */

@@ -1,0 +1,19 @@
+.board {
+    position: absolute;
+    z-index: -1;
+    width: 2000px;
+    height: 2000px;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(70, 70, 121);
+    /* background-color: ghostwhite; */
+}
+
+.board-container {
+    /* position: absolute;
+    top: 0;
+    left: 0;
+    width: 900px;
+    height: 900px;
+    overflow: inherit; */
+  }

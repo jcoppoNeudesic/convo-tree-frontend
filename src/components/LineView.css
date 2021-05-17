@@ -1,0 +1,6 @@
+.line {
+    position: absolute;
+    z-index: -1;
+    height: 2px;
+    background-color: rgb(179, 179, 179);
+}

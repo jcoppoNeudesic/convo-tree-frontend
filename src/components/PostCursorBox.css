@@ -1,0 +1,7 @@
+.post-cursor-box {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    border: 2px solid rgb(255, 217, 121);
+}

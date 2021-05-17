@@ -1,0 +1,26 @@
+:root {
+  --main-color: rgb(211, 209, 209);
+}
+
+.ui-overlay {
+  margin: 2em;
+  color: var(--main-color);
+}
+
+.create-comment-button-area {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.comment-form-container {
+  display: flex;
+  justify-content: center;
+}
+
+.header-bar {
+  background-color: var(--main-color);
+  height: 3px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+

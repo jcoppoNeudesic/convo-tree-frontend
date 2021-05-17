@@ -1,0 +1,24 @@
+{
+    "samplePosts": [
+        {
+            "id": 0,
+            "parentPostId": "",
+            "user": "Homer",
+            "date": 313131231,
+            "message": "xjwkjxwx kwjx wsjx ws",
+            "color": "pink",
+            "x": 100,
+            "y": 400
+        },
+        {
+            "id": 1,
+            "parentPostId": 0,
+            "user": "Mr Smithers",
+            "date": 313131231,
+            "message": "bogoogo o gbgogbgobogbgbgbog og bog ogbog !",
+            "color": "salmon",
+            "x": 500,
+            "y": 300
+        }
+    ]
+}

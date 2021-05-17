@@ -1,0 +1,27 @@
+.post-container {
+    position: absolute;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+.post {
+    border-radius: 5px;
+    width: 180px;
+    padding: 15px;
+}
+
+.post-container:hover {
+    cursor: pointer;
+    background-color: rgb(255, 217, 121);
+    /* outline: 2px solid rgb(50, 50, 50); */
+}
+
+.heading {
+    padding-bottom: 0.5em;
+    color: rgb(113, 113, 113);
+}
+
+.body {
+    line-height: 1.3em;
+    color: rgb(70, 70, 70);
+}
